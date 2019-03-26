@@ -1,0 +1,88 @@
+@media (min-width: 992px){
+#mainNav .nav-link {
+	color: black!important;
+	}
+}
+.carousel-control-prev-icon {
+    background-image: none!important;
+}
+.carousel-control-next-icon {
+    background-image: none!important;
+}
+.link-align{
+	 text-align: left!important;
+	 margin-bottom: 40px!important;
+}
+.print{
+	color: white;
+}
+.contact-pad{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.about-section{
+	padding-top: 50px;
+	/*height: 585px;*/
+}
+.card-body{
+	padding: 0px;
+}
+.social{
+	margin-top: 50px!important;
+}
+.footer{
+	background-color: white!important;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+.footer-text{
+	color:black!important;
+}
+.img-center{
+	width: 75%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 10px;
+}
+.dropdown-menu{
+	margin-top: 0px!important;
+}
+.dropdown-toggle::after{
+	content: none!important;
+}
+.dropdown:hover>.dropdown-menu {
+  display: block;
+}
+
+.dropdown>.dropdown-toggle:active {
+  /*Without this, clicking will make it sticky*/
+    pointer-events: none;
+}
+.dropdown-item:focus,.dropdown-item:hover{
+	background-color: #64a19d;
+}
+.form-span{
+    border-bottom-right-radius: 0px!important;
+    border-top-right-radius: 0px!important;
+}
+.form-span-2{
+	border-bottom-left-radius: 0px!important;
+    border-top-left-radius: 0px!important;
+}
+.form-width{
+	width: 70%;
+	margin-right: auto;
+	margin-left: auto;
+}
+.float-right{
+	float: right;
+}
+.text-bold{
+	font-weight: bold;
+}
+.login-btn{
+	padding: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
